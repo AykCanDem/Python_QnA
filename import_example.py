@@ -1,0 +1,1 @@
+sample_dict = {'name':['John','Alex'], 'age':[22,25]}
